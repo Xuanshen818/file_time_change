@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 
 # 设置要更改的目录路径和新的修改日期
-directory_path = 'C:\\Users\\86135\\Desktop\\数字逻辑\\数字逻辑实验\\实验二\\1320221095 徐帅'
+directory_path = '你的地址'
 new_modification_time = datetime(2024, 6, 9, 15, 34, 0)  # 设置新的修改日期和时间
 
 # 将datetime对象转换为时间戳
